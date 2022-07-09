@@ -1,4 +1,4 @@
-package ahogek.com.github.lambda;
+package cn.ahogek.lambda;
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * This program demonstrates the use of lambda expressions
  *
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-09 19:45:26
  */
 public class LambdaTest {

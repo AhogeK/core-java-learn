@@ -1,4 +1,4 @@
-package ahogek.com.github.arrays;
+package cn.ahogek.arrays;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * 这个程序用于展示数组的基础拷贝操作
  *
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-05-31 22:06:54
  */
 public class CopyOfTest {

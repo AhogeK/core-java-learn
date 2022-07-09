@@ -1,10 +1,10 @@
-package ahogek.com.github.welcome;
+package cn.ahogek.vonectwo.welcome;
 
 /**
  * this program displays a greeting for the reader
  * <p>
- * javac -d out/production/core-java-learn src/ahogek/com/github/welcome/Welcome.java
- * java -cp out/production/core-java-learn ahogek.com.github.welcome/Welcome
+ * javac -d out/production/core-java-learn src/cn/ahogek/vonectwo/welcome/Welcome.java
+ * java -cp out/production/core-java-learn cn.ahogek.vonectwo.welcome.Welcome
  */
 public class Welcome {
     public static void main(String[] args) {

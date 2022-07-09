@@ -1,10 +1,10 @@
-package ahogek.com.github.methods;
+package cn.ahogek.methods;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-07 19:04:49
  */
 public class MethodTableTest {

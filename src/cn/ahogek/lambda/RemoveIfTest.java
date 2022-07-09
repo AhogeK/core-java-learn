@@ -1,11 +1,11 @@
-package ahogek.com.github.lambda;
+package cn.ahogek.lambda;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;
 
 /**
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-09 19:53:12
  */
 public class RemoveIfTest {

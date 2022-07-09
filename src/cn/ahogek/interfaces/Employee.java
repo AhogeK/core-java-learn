@@ -1,9 +1,9 @@
-package ahogek.com.github.interfaces;
+package cn.ahogek.interfaces;
 
 import java.util.Objects;
 
 /**
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-08 12:44:10
  */
 public class Employee implements Comparable<Employee> {

@@ -1,10 +1,10 @@
-package ahogek.com.github.lambda;
+package cn.ahogek.lambda;
 
 import java.time.LocalDate;
 import java.util.Objects;
 
 /**
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-09 19:56:08
  */
 public class RequireNonNullOrElseGetTest {

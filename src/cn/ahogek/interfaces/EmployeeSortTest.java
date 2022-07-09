@@ -1,11 +1,11 @@
-package ahogek.com.github.interfaces;
+package cn.ahogek.interfaces;
 
 import java.util.Arrays;
 
 /**
  * This program demonstrates the use of the {@link Comparable} interface
  *
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-08 12:48:09
  */
 public class EmployeeSortTest {

@@ -1,11 +1,11 @@
-package ahogek.com.github.clone;
+package cn.ahogek.clone;
 
 import java.util.Calendar;
 
 /**
  * This program demonstrates cloning
  *
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-07 19:21:29
  */
 public class CloneTest {

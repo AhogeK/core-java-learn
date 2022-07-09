@@ -1,10 +1,10 @@
-package ahogek.com.github.clone;
+package cn.ahogek.clone;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * @author AhogeK ahogek@gmail.com
+ * @author AhogeK cn@gmail.ahogek
  * @since 2022-06-07 19:22:33
  */
 public class Employee implements Cloneable {
