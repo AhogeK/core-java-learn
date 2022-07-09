@@ -1,6 +1,8 @@
 package ahogek.com.github.welcome;
 
 /**
+ * this program displays a greeting for the reader
+ * <p>
  * javac -d out/production/core-java-learn src/ahogek/com/github/welcome/Welcome.java
  * java -cp out/production/core-java-learn ahogek.com.github.welcome/Welcome
  */
