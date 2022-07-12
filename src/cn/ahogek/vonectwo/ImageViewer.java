@@ -1,4 +1,4 @@
-package cn.ahogek.vonectwo.imageview;
+package cn.ahogek.vonectwo;
 
 import javax.swing.*;
 import java.awt.*;

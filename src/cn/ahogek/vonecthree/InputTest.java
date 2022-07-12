@@ -1,4 +1,4 @@
-package cn.ahogek.vonecthree.inputtest;
+package cn.ahogek.vonecthree;
 
 import java.util.Scanner;
 
